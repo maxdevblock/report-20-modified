@@ -3,7 +3,7 @@ Tentativo di parametrizzazione di Rt COVID-19 su mobilità Google e compliance d
 
 # Dettagli modello
 
-I dettagli del modello e i risultati sono visualizzabili nel pdf _README Dettagli Modello e Risultati.pdf_
+I dettagli del modello e i risultati sono visualizzabili nel pdf _README Descrizione Modello e Risultati.pdf_
 
 # Requisiti di sistema
 Sono stati usati
