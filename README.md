@@ -1,7 +1,9 @@
 # report-20-modified
 Tentativo di parametrizzazione di Rt COVID-19 su mobilità Google e compliance della popolazione alle norme di igiene e sicurezza nelle regioni italiane.
 
-# WORK IN PROGRESS
+# Dettagli modello
+
+I dettagli del modello e i risultati sono visualizzabili nel pdf _README Dettagli Modello e Risultati.pdf_
 
 # Requisiti di sistema
 Sono stati usati
