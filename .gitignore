@@ -218,3 +218,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .vscode
+python utils/.DS_Store
